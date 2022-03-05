@@ -1,9 +1,9 @@
-# SMOKER MUSICX
+# 𝙽𝙰𝚅𝚈𝙰 MUSICX
 
 ### Best Smart Voice Chat Music Robot For Telegram Groups ...
 
 
-<p align="center"><a href="https://t.me/sanki_owner"><img src="https://te.legra.ph/file/cb120c72f464ff25025a3.jpg"></a></p>
+<p align="center"><a href="https://t.me/PTRAKAAR"><img src="https://te.legra.ph/file/15b4de59d0474fc0dc660.jpg"></a></p>
 
 
 # ʜᴇʀoᴋᴜ ᴅᴇᴘʟᴏʏ
