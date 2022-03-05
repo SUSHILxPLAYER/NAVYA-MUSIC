@@ -314,7 +314,7 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="𝐂𝐡𝐚𝐧𝐧𝐞𝐥📡",
-                            url=f"https://t.me/ALL_FBAN")
+                            url=f"https://t.me/TAG_FBAN")
                ],
                [
                     InlineKeyboardButton(
